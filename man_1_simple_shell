@@ -1,16 +1,13 @@
 B.\"Manpage for simple shell 
 .\"Created by Benneth Ezulike and Ayisat Fetuga
 
-.TH SODASH 1 "June 13 2022" "SODA SHELL - Simple Shell man page"
+.TH SODASH 1 "November 16 2022" "SODA SHELL - Simple Shell man page"
 
 .SH NAME
 sodash\fR \- simple UNIX command interpreter
 
 .SH SYNOPSIS
 soda\fR [\fIfilename\fR]
-
-.SH COPYRIGHT
-soda is Copyright (C) 2022 by Caleb Nyong and Matthew Lawrence
 
 .SH DESCRIPTION
 Soda\fR is a sh-compatible command language interpreter that executes commands read from the standard input or from a file.
