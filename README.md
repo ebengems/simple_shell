@@ -11,4 +11,4 @@ This program is made to complete the team project 0x16. C - Simple Shell at Holb
 
 ### Credits
 
-All code written by [Benneth Ezulike([https://github.com/ebengems) and [Ayisat Fetuga]
+All code written by [Benneth Ezulike] ([https://github.com/ebengems) and [Ayisat Fetuga] ([https://github.com/fetuga-ayisat)
